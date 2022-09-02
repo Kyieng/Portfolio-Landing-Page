@@ -3,24 +3,32 @@
     align-items: center;
     justify-content: center;
     image-orientation: center;
+    
 }
 img {
     max-width: 100%;
+    border: 1px;
+    border-radius: 4px;
+    
+
 
 }
 .image {
     flex-basis: 100%;
 }
 .test-box {
-    border-left: 4px solid olive;
-    border-right: 4px solid olive;
-    border-top: 4px solid olive;
-    border-bottom:4px solid olive;
+    border-left: 4px solid rgb(4, 59, 37);
+    border-right: 4px solid rgb(4, 59, 37);
+    border-top: 4px solid rgb(4, 59, 37);
+    border-bottom:4px solid rgb(4, 59, 37);
     text-align: center;
     mask-size: cover;
 }
 p {
     font-style: normal;
 }
+body {
+    color:rgb(9, 43, 15)
 
-
+}
+ 
