@@ -4,7 +4,7 @@
 Concepta Koech
 
 ## description of project
-This is all about ME, who I am, what I like and what i've been upto
+This is all about ME, who I am, what I like and what I've been upto
 
 ## project setup instructions
 Open with Github: https://github.com/Kyieng/Portfolio-Landing-Page.git
